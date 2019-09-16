@@ -1,0 +1,90 @@
+.workorder-detail {
+    font-size: 22px;
+    border-bottom: 2px solid black;
+}
+
+.action-toolbar {
+    position: absolute;
+    right: 80px;
+    top:75px;
+}
+
+.parts-use {
+    font-size: 22px;
+}
+
+.table thead tr th {
+    font-size: 12px !important;
+    padding: 6px;
+}
+
+.custom-fileinput {
+    display: inline-block;
+    margin-bottom: 9px;
+}
+
+.custom-fileinput .btn {
+    vertical-align: middle;
+}
+
+.table-container {
+    padding-left: 0px;
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-bottom: 15px;
+}
+
+.table-container {
+    min-height: 0px !important;
+}
+
+.dataTables_extended_wrapper {
+   border: 1px solid #f3f3f4;
+   min-height: 50px;
+}
+
+.picture-img {
+    width: 50px;
+    height: 50px;
+    padding: 7px;
+    border: 1px solid #c2cad8;
+    cursor: pointer;
+}
+
+.picture-delete {
+    position: relative;
+    top: -25px;
+    left: -15px;
+}
+
+.picture-delete .badge {
+    font-size: 15px !important;
+    padding-left: 3px;
+    height: 18px;
+    padding-right: 3px;
+    padding-top: 1px;
+}
+
+#picture-container {
+    padding: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border: 1px solid #c2cad8;
+    display: inline-block;;
+    min-height: 60px;
+    min-width: 300px;
+}
+
+.picture-img-wrapper {
+    float:  left;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.dropdown-menu.bottom-up {
+    border: 2px solid #d1d2d4;
+    padding: 15px 10px 15px 10px;
+    border-radius: 5px !important;
+    font-size: 12px;
+    color: black;
+}

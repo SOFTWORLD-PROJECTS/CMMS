@@ -1,0 +1,35 @@
+.date-input {
+    height: 30px;
+    border-top-left-radius: 15px !important;
+    border-bottom-left-radius: 15px !important;
+}
+
+.date-btn {
+    line-height: 1.2 !important;
+    border-top-right-radius: 15px !important;
+    border-bottom-right-radius: 15px !important;
+}
+
+.filter-btn {
+    width: 90px;
+    height: 26px;
+    padding-top: 3px;
+    margin-top: 1px;
+}
+
+.table.table-light>thead>tr>th {
+    color: black !important;
+}
+
+.table.table-light>tbody>tr>td {
+    height: 40px !important;
+}
+
+.spent_analysis {
+    position: absolute;
+    left: 25%;
+    font-weight: bold;
+    font-size: 18px;
+    top: 15px;
+    border-bottom: 2px solid #626365;
+}

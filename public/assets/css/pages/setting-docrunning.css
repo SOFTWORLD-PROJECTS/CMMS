@@ -1,0 +1,11 @@
+@media (min-width: 992px) {
+    .page-content-wrapper .page-content {
+        height: 100% !important;
+    }
+}
+
+.action-toolbar {
+    position: absolute;
+    right: 80px;
+    top:75px;
+}

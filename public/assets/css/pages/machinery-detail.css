@@ -1,0 +1,21 @@
+.machine-particular {
+    font-size: 22px;
+    border-bottom: 2px solid black;
+}
+
+.action-toolbar {
+    position: absolute;
+    right: 80px;
+    top:75px;
+}
+
+.form-control {
+    border: none;
+    border-bottom: 1px solid #c2cad8;
+}
+
+@media (min-width: 992px) {
+    .page-content-wrapper .page-content {
+        height: 100% !important;
+    }
+}

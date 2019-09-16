@@ -1,0 +1,15 @@
+.workorder-detail {
+    font-size: 20px;
+    border-bottom: 2px solid black;
+}
+
+.action-toolbar {
+    position: absolute;
+    right: 80px;
+    top: 75px;
+}
+
+.disal-delete-btn {
+    font-size: 20px;
+    padding-top: 2px;
+}

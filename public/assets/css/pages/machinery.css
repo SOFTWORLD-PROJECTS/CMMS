@@ -1,0 +1,16 @@
+.table-container {
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-right: 20px;
+    padding-bottom: 25px;
+}
+
+.dataTables_extended_wrapper {
+   border: 1px solid #f3f3f4;
+}
+
+.action-toolbar {
+    position: absolute;
+    right: 80px;
+    top:75px;
+}
